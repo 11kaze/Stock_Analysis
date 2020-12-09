@@ -1,2 +1,2 @@
-# Time-series-data-analysis
+# stock-data-analysis
 stock analysis of Intel and AMD
