@@ -1,2 +1,2 @@
 # Time-series-data-analysis
-Time_series_EDA
+stock analysis of Intel and AMD
